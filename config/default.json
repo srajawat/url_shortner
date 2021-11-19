@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://shiven:GwrbMRuxrUkj76x@cluster0.dycky.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:3000"
+}
