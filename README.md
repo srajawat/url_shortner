@@ -6,3 +6,8 @@ Used mongoDB using mongoose ODM for database as NoSQL will suit the architecture
 
 
 
+To use the app - NO need to setup up anythng use the following URL 
+
+http://urlshort-env.eba-aqxu2frd.us-east-2.elasticbeanstalk.com/
+
+
